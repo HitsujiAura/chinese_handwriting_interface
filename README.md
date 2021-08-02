@@ -1,4 +1,4 @@
-# chinese
+# Chinese handwriting UI
 
 The UI for a chinse testing app that asks for handwritten chinese characters for translations.
 
